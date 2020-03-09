@@ -4,7 +4,7 @@ Semetrika je program, který metricky rozebírá latinský hexametr.
 
 ## Ovládání souboru app.py
 
- * vstup:
+ * vstup: není nutné, aby v něm byly označeny délky samohlásek, ale musí se v něm rozlišovat *u* a *v*
    1. `-i`/`--input` [cesta k souboru s hexametry]
    2. jinak: čti ze standardního vstupu
 
